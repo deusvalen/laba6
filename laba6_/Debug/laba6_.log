@@ -1,0 +1,22 @@
+﻿Построение начато 16.10.2016 16:22:55.
+     1>Проект "C:\Users\user\documents\visual studio 2010\Projects\laba6_\laba6_\laba6_.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\laba6_.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\documents\visual studio 2010\Projects\laba6_\Debug\laba6_.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\laba6_.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\documents\visual studio 2010\Projects\laba6_\Debug\laba6_.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\documents\visual studio 2010\Projects\laba6_\Debug\laba6_.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Matrix.obj
+         LINK : не найден или не выполнена сборка C:\Users\user\documents\visual studio 2010\Projects\laba6_\Debug\laba6_.exe при последней инкрементной компоновке; выполняется полная компоновка
+         laba6_.vcxproj -> C:\Users\user\documents\visual studio 2010\Projects\laba6_\Debug\laba6_.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\user\documents\visual studio 2010\Projects\laba6_\Debug\laba6_.exe;#1" /manifest Debug\laba6_.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\laba6_.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba6_.lastbuildstate".
+     1>Построение проекта "C:\Users\user\documents\visual studio 2010\Projects\laba6_\laba6_\laba6_.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.22
